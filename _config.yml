@@ -10,6 +10,7 @@ description:         'Полезные вещи, которые я узнал и
 url:                 http://konstantin-morenko.ru
 baseurl:             ''
 paginate:            10
+excerpt_separator:   <!--more-->
 
 # About/contact
 author:

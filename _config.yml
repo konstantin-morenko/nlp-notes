@@ -8,7 +8,7 @@ title:               Записки об НЛП
 tagline:             'Заметки, упражнения и мысли'
 description:         'Полезные вещи, которые я узнал и понял за время изучения НЛП.'
 url:                 http://konstantin-morenko.ru
-baseurl:             ''
+baseurl:             '/nlp-notes'
 paginate:            10
 excerpt_separator:   <!--more-->
 

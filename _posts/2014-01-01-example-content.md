@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Example content
+excerpt: Just example content for blog
 ---
 
 

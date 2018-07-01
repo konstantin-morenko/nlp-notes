@@ -1,0 +1,6 @@
+# Emacs backups
+*~
+
+# Site build
+_site/
+.sass-cache/

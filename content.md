@@ -9,4 +9,5 @@ title: Содержание
 
 * [Назначение блога]({{ site.baseurl }}{% post_url 2018-06-29-purpose %})
 * [Польза от НЛП]({{ site.baseurl }}{% post_url 2018-07-02-profits %})
+* [Динамика ментальных состояний]({{ site.baseurl }}{% post_url 2018-07-03-mindset-movement.md %})
 * [Упражнение "Шкала"]({{ site.baseurl }}{% post_url 2018-06-30-scales %})

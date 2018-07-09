@@ -11,3 +11,4 @@ title: Содержание
 * [Польза от НЛП]({{ site.baseurl }}{% post_url 2018-07-02-profits %})
 * [Динамика ментальных состояний]({{ site.baseurl }}{% post_url 2018-07-03-mindset-movement %})
 * [Упражнение "Шкала"]({{ site.baseurl }}{% post_url 2018-06-30-scales %})
+* [Упражнение "Далеко-Близко"]({{ site.baseurl }}{% post_url 2018-07-09-far-near %})
